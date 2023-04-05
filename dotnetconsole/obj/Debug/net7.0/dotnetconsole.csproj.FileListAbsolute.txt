@@ -1,0 +1,15 @@
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\bin\Debug\net7.0\dotnetconsole.exe
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\bin\Debug\net7.0\dotnetconsole.deps.json
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\bin\Debug\net7.0\dotnetconsole.runtimeconfig.json
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\bin\Debug\net7.0\dotnetconsole.dll
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\bin\Debug\net7.0\dotnetconsole.pdb
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.csproj.AssemblyReference.cache
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.AssemblyInfoInputs.cache
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.AssemblyInfo.cs
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.dll
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\refint\dotnetconsole.dll
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.pdb
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\dotnetconsole.genruntimeconfig.cache
+C:\Users\ASUS\BootcampRapid\GitDemo\gitdemo\dotnetconsole\obj\Debug\net7.0\ref\dotnetconsole.dll
